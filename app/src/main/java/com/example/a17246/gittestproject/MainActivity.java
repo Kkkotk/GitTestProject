@@ -20,6 +20,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     @Override
     public void onClick(View v) {
-        Toast.makeText(this, "sss", 1).show();
+        Toast.makeText(this, "sss", Toast.LENGTH_LONG).show();
     }
 }
