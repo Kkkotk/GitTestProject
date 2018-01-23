@@ -10,6 +10,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        mButton = (Button) findViewById(R.id.activity_main_bt_test);
+//        mButton = (Button) findViewById(R.id.activity_main_bt_test);
+        /**
+         * 测试文件
+         */
     }
 }
